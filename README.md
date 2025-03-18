@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/goron-zelda-majoras-mask-dance-monkey-gif-18487812"  />
+<img align="left" height="150" src="https://c.tenor.com/we3qLdq_BzIAAAAd/tenor.gif"  />
 
 ###
 
