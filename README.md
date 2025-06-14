@@ -53,4 +53,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GoroXabi/GoroXabi/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/GoroXabi/GoroXabi/output/snake.svg" alt="Snake animation" /> -->
